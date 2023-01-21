@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577420603539",
+    "project_id": "hamza-javed-junior-project",
+    "storage_bucket": "hamza-javed-junior-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577420603539:android:91430d6f3b03d5284d5d66",
+        "android_client_info": {
+          "package_name": "com.example.project_19_jan_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577420603539-v79fiq4959r3ks0s1r3dt14pt71e6tid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48e7A4I2mHacMGJxGTkgMwXsGgNUzc-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577420603539-v79fiq4959r3ks0s1r3dt14pt71e6tid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
